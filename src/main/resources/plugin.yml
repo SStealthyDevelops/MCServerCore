@@ -1,6 +1,7 @@
-name: mcserver
+name: MCServerCore
 version: '1.0-SNAPSHOT'
 main: me.satvikmathur.mcserver.Core
+author: Satvik Mathur
 api-version: '1.21'
 commands:
   nickname:
