@@ -1,0 +1,11 @@
+name: mcserver
+version: '1.0-SNAPSHOT'
+main: me.satvikmathur.mcserver.Core
+api-version: '1.21'
+commands:
+  nickname:
+    description: Nickname yourself
+    aliases:
+      - nick
+  nameitem:
+    description: Name item in hand (use & for color codes)
